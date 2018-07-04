@@ -36,7 +36,7 @@ public class OnGesture : MonoBehaviour {
 
     void Update()
     {
-        body.AddForce(player.transform.forward * thrust);
+        
     }
 
 
